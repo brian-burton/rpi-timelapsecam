@@ -11,4 +11,4 @@ I'm toying with timelapse photography on my RPi + NoIR camera.
 ## Structure of the repo
 I'm using the Export/Library feature in Node-Red, with the git folder symlinked to that.
 - **System** is full of stuff that I use for managing the Pi itself
-- **Photo** is the stuff that take pictures
+- **Camera** is the stuff that takes pictures
